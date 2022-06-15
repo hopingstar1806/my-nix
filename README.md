@@ -1,2 +1,2 @@
 # my-nix
-My nix configuration
+My nix configuration for NixOS
